@@ -1,0 +1,8 @@
+{
+  "weekend": {
+    "start": "2026-10-02",
+    "end": "2026-10-04",
+    "label": "October 2–4, 2026"
+  },
+  "note": "Initial archived weekly brief. See ../current-week.json for the full current data model."
+}
