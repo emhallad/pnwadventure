@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="PNW Adventure — a weekly adventure brief for the Pacific Northwest." />
+  <title>PNW Adventure</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="eyebrow">TRI-CITIES • PACIFIC NORTHWEST</p>
+      <h1>PNW Adventure</h1>
+      <p class="lede">The best things worth doing this weekend — sorted by activity.</p>
+      <div id="weekend-meta" class="weekend-meta"></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="summary" class="summary-card" aria-live="polite"></section>
+
+    <nav id="category-nav" class="category-nav" aria-label="Activity categories"></nav>
+
+    <section id="top-picks" class="top-picks"></section>
+
+    <section id="activity-sections"></section>
+
+    <section class="archive-block">
+      <h2>Past weekends</h2>
+      <p>Weekly snapshots are stored in <code>data/archive/</code>.</p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span>PNW Adventure</span>
+      <span id="updated"></span>
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
