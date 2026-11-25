@@ -5,8 +5,8 @@
     "label": "November 27–29, 2026"
   },
   "baseLocation": "Tri-Cities, Washington",
-  "updated": "November 24, 2026",
-  "summary": "21 ranked local-first recommendations and planning leads for Thanksgiving weekend. Top picks are Fleet Feet's free Friday Donut Run/Winter Warriors kickoff; Prosser Thanksgiving in Wine Country; nearby holiday markets and local winery music. Regional endurance options include Seattle Ghost Marathon/50K and Capitol Forest Less Turkey More Trot. Winter conditions are unsettled: NWAC flags rain and high-elevation snowfall; Bluewood's official opening target is Dec 10. No verified regional motorcycle track day, local cyclocross race, or outdoor-adventure film screening this weekend. Individual registration, fees and weather must be rechecked close to departure; conditional/canceled calendar leads are explicitly labeled.",
+  "updated": "November 25, 2026",
+  "summary": "30 globally ranked Thanksgiving-weekend recommendations with expanded Tri-Cities and 70-mile-area live music, including Emerald of Siam, At Michele's, Rattlesnake Mountain Brewing, Sage Brewing, 3 Eyed Fish, Ray's Golden Lion, Brewminatti, Last Call, Gard Estate and Gesa Power House Theatre. Includes Toyota Center hockey. Local running and skiing/avalanche priorities preserved. The Ramon Ayala Toyota Center concert on Nov 28 is officially marked CANCELLED on Ticketmaster and excluded despite conflicting third-party ticket listings. Some cover charges, availability and precise point weather remain unconfirmed. No verified outdoor-adventure film this weekend.",
   "recommendations": [
     {
       "rank": 1,
@@ -52,6 +52,76 @@
     },
     {
       "rank": 4,
+      "title": "Cindy and Sally — Emerald of Siam",
+      "category": "Concerts / Festivals",
+      "timing": "Friday Nov 27, 5 PM",
+      "location": "Emerald of Siam, Richland, WA",
+      "driveTime": "Local",
+      "cost": "Cover not confirmed; dining extra",
+      "weather": "Indoor",
+      "exceptional": false,
+      "description": "Early-evening acoustic/easy-listening duo, suited to dinner and local social time",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://tricityvibe.com/event/chelsea-spence-crane/"
+    },
+    {
+      "rank": 5,
+      "title": "Sugar Bluff with Sick April — Emerald of Siam",
+      "category": "Concerts / Festivals",
+      "timing": "Friday Nov 27, 9 PM",
+      "location": "Emerald of Siam, Richland, WA",
+      "driveTime": "Local",
+      "cost": "Cover/ticket price check venue",
+      "weather": "Indoor",
+      "exceptional": false,
+      "description": "Alternative-rock local double bill; late Friday live-music choice",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://tricityvibe.com/event/los-caipirinhos-emerald-siam-2/"
+    },
+    {
+      "rank": 6,
+      "title": "Lo-Tek Blues — At Michele's",
+      "category": "Concerts / Festivals",
+      "timing": "Friday Nov 27, 7–10 PM",
+      "location": "At Michele's, Richland, WA",
+      "driveTime": "Local",
+      "cost": "Cover/dining cost check venue",
+      "weather": "Indoor",
+      "exceptional": false,
+      "description": "Blues at the requested venue, corroborated by At Michele's official calendar",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://atmicheles.com/"
+    },
+    {
+      "rank": 7,
+      "title": "Groove Principal — Rattlesnake Mountain Brewing",
+      "category": "Concerts / Festivals",
+      "timing": "Friday Nov 27, 7–10 PM",
+      "location": "Rattlesnake Mountain Brewing, Richland, WA",
+      "driveTime": "Local",
+      "cost": "Cover not confirmed; food/drinks extra",
+      "weather": "Indoor",
+      "exceptional": false,
+      "description": "High-energy local rock covers with a brewery/social atmosphere",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://bentonfranklin.com/events/groove-principal-back-at-rattlesnake-mountain-brewing-2026-11-27/"
+    },
+    {
+      "rank": 8,
+      "title": "Neon Madmen — Sage Brewing",
+      "category": "Concerts / Festivals",
+      "timing": "Friday Nov 27, 6–8 PM",
+      "location": "Sage Brewing, Pasco, WA",
+      "driveTime": "Local",
+      "cost": "Cover not confirmed",
+      "weather": "Indoor",
+      "exceptional": false,
+      "description": "Short Friday evening local band set with brewery stop",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://tricityvibe.com/event-category/live-music-event-calendar-tri-cities-wa/"
+    },
+    {
+      "rank": 9,
       "title": "Tri-Cities Holiday Expo",
       "category": "Concerts / Festivals",
       "timing": "Friday–Saturday Nov 27–28, 10 AM–5 PM",
@@ -65,7 +135,7 @@
       "url": "https://www.visittri-cities.com/events/tri-cities-holiday-expo/"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "title": "Small Business Saturday Makers Market — Ruby Gallery",
       "category": "Concerts / Festivals",
       "timing": "Saturday Nov 28, 10 AM–4 PM",
@@ -79,7 +149,7 @@
       "url": "https://tricitiesbusinessnews.epublishing.net/articles/holiday-bazaars-2026"
     },
     {
-      "rank": 6,
+      "rank": 11,
       "title": "Benton City Winterfest Bazaar",
       "category": "Concerts / Festivals",
       "timing": "Saturday Nov 28, 10 AM–3 PM",
@@ -93,7 +163,7 @@
       "url": "https://tricitiesbusinessnews.epublishing.net/articles/holiday-bazaars-2026"
     },
     {
-      "rank": 7,
+      "rank": 12,
       "title": "Calico Bones Live Music — Tucannon Cellars",
       "category": "Concerts / Festivals",
       "timing": "Saturday Nov 28; confirm music time",
@@ -107,7 +177,7 @@
       "url": "https://www.visityakima.com/wine-event-thanksgiving-in-wine-country"
     },
     {
-      "rank": 8,
+      "rank": 13,
       "title": "Faith Martin Live — Hedges Family Estate",
       "category": "Concerts / Festivals",
       "timing": "Saturday Nov 28; afternoon, confirm exact hours",
@@ -121,21 +191,91 @@
       "url": "https://www.visityakima.com/events/54160-Live-Music-with-Faith-Martin-at-Hedges-Family-Estate"
     },
     {
-      "rank": 9,
+      "rank": 14,
       "title": "Zac Grooms Live — Gard Vintners Prosser",
       "category": "Concerts / Festivals",
-      "timing": "Friday Nov 27, 6–8 PM (calendar listing)",
+      "timing": "Friday Nov 27, about 5–5:30 PM (sources differ; confirm venue)",
       "location": "Gard Estate, Prosser, WA",
       "driveTime": "~35–45 min",
       "cost": "Cover and purchases unconfirmed",
       "weather": "Indoor venue",
       "exceptional": false,
-      "description": "Nearby Friday evening music; verify schedule directly with venue",
-      "why": "Nearby Friday evening music; verify schedule directly with venue",
+      "description": "Prosser winery live music. Bandsintown lists 5 PM while Tri-City Vibe lists 5:30 PM; check the venue before departure.",
+      "why": "Nearby winery live-music option and Thanksgiving wine country.",
       "url": "https://bentonfranklin.com/events/?bf_city=prosser"
     },
     {
-      "rank": 10,
+      "rank": 15,
+      "title": "Mid-Columbia Opera Holiday Concert & Sing-Along — Emerald of Siam",
+      "category": "Concerts / Festivals",
+      "timing": "Saturday Nov 28, 5 PM",
+      "location": "Emerald of Siam, Richland, WA",
+      "driveTime": "Local",
+      "cost": "Cover/food cost check venue",
+      "weather": "Indoor",
+      "exceptional": false,
+      "description": "A local musical performance with a social sing-along format",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://tricityvibe.com/event/valentines-day-bash-emerald-siam/"
+    },
+    {
+      "rank": 16,
+      "title": "Rock Dee House Dueling Pianos — Last Call",
+      "category": "Concerts / Festivals",
+      "timing": "Saturday Nov 28, 7–10 PM",
+      "location": "Last Call, Kennewick, WA",
+      "driveTime": "Local",
+      "cost": "Ticket/cover check venue",
+      "weather": "Indoor",
+      "exceptional": false,
+      "description": "Interactive dueling-piano night; good group social option",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://tricityvibe.com/event/dueling-pianos-4/"
+    },
+    {
+      "rank": 17,
+      "title": "J. Plank (Jeff Plankenhorn) — Brewminatti",
+      "category": "Concerts / Festivals",
+      "timing": "Saturday Nov 28, 7–9 PM",
+      "location": "Brewminatti, Prosser, WA",
+      "driveTime": "~35–45 min",
+      "cost": "Ticket/cover check venue",
+      "weather": "Indoor",
+      "exceptional": false,
+      "description": "Touring singer-songwriter/guitarist at intimate Prosser venue",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://www.bandsintown.com/c/kennewick-wa"
+    },
+    {
+      "rank": 18,
+      "title": "Rachel Montgomery — 3 Eyed Fish",
+      "category": "Concerts / Festivals",
+      "timing": "Saturday Nov 28, 7–9 PM",
+      "location": "3 Eyed Fish Kitchen + Bar, Richland, WA",
+      "driveTime": "Local",
+      "cost": "Cover/dining cost check venue",
+      "weather": "Indoor",
+      "exceptional": false,
+      "description": "Local evening music and dining without travel",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://tricityvibe.com/event-category/live-music-event-calendar-tri-cities-wa/"
+    },
+    {
+      "rank": 19,
+      "title": "Stonehed 90s Party — Ray's Golden Lion",
+      "category": "Concerts / Festivals",
+      "timing": "Saturday Nov 28, 7:30 PM",
+      "location": "Ray's Golden Lion, Richland, WA",
+      "driveTime": "Local",
+      "cost": "Cover check venue",
+      "weather": "Indoor",
+      "exceptional": false,
+      "description": "Nostalgic rock night at a local music venue",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://tricityvibe.com/event-category/live-music-event-calendar-tri-cities-wa/"
+    },
+    {
+      "rank": 20,
       "title": "Thanksgiving Wine Tasting — Martinez & Martinez",
       "category": "Concerts / Festivals",
       "timing": "Fri–Sun Nov 27–29, listed 11 AM–6 PM",
@@ -149,7 +289,7 @@
       "url": "https://www.washingtonwine.org/events/"
     },
     {
-      "rank": 11,
+      "rank": 21,
       "title": "Mercer Wine Estates Food Truck Friday",
       "category": "Concerts / Festivals",
       "timing": "Friday Nov 27, 5–8 PM",
@@ -163,7 +303,7 @@
       "url": "https://www.washingtonwine.org/events/category/unique-experiences/"
     },
     {
-      "rank": 12,
+      "rank": 22,
       "title": "Badger–Candy Mountain Long Trail Run",
       "category": "Trail Running / Hiking",
       "timing": "Sat or Sun, self-guided daylight",
@@ -177,7 +317,7 @@
       "url": "https://friendsofbadger.org/"
     },
     {
-      "rank": 13,
+      "rank": 23,
       "title": "Columbia River Multiuse Path Cycling",
       "category": "Road Cycling",
       "timing": "Sat or Sun, self-guided daylight",
@@ -191,7 +331,7 @@
       "url": "https://www.visittri-cities.com/"
     },
     {
-      "rank": 14,
+      "rank": 24,
       "title": "Walla Walla Lowland Gravel / Road Ride",
       "category": "Gravel / Cyclocross",
       "timing": "Sat or Sun, self-guided daylight",
@@ -205,7 +345,7 @@
       "url": "https://wallawalla.org/"
     },
     {
-      "rank": 15,
+      "rank": 25,
       "title": "Seattle Ghost Marathon, Half Marathon and 50K",
       "category": "Ultra Running",
       "timing": "Saturday Nov 28; start time per organizer",
@@ -219,7 +359,7 @@
       "url": "https://nwultras.com/"
     },
     {
-      "rank": 16,
+      "rank": 26,
       "title": "Less Turkey More Trot — Capitol Forest",
       "category": "Ultra Running",
       "timing": "Nov 21–29; choose a time within event window",
@@ -233,35 +373,7 @@
       "url": "https://ultrasignup.com/register.aspx?did=144608"
     },
     {
-      "rank": 17,
-      "title": "Evergreen MTB 360 Trail Work Party — Check Status",
-      "category": "MTB",
-      "timing": "Sat Nov 28, midday listed; verify cancellation status before attending",
-      "location": "360 Trails, Gig Harbor, WA",
-      "driveTime": "~4–4.5 hr",
-      "cost": "Volunteer/free",
-      "weather": "Wet trails, possible poor trail conditions",
-      "exceptional": false,
-      "description": "Calendar lists a 360 work party and a canceled 360 item; do NOT travel unless organizer confirms a separate active work party",
-      "why": "Calendar lists a 360 work party and a canceled 360 item; do NOT travel unless organizer confirms a separate active work party",
-      "url": "https://www.evergreenmtb.org/calendar/monthcalendar?category_fv=&chapter_fv=&month=11&year=2026"
-    },
-    {
-      "rank": 18,
-      "title": "Moses Lake or Columbia Basin Endurance Ride",
-      "category": "Road Cycling",
-      "timing": "Sat or Sun, self-guided daylight",
-      "location": "Moses Lake, WA",
-      "driveTime": "~1 hr 20 min",
-      "cost": "Free",
-      "weather": "Cold, exposed wind and possible frost",
-      "exceptional": false,
-      "description": "Flat-road fitness option; not an organized ride",
-      "why": "Flat-road fitness option; not an organized ride",
-      "url": "https://www.visitmoseslake.com/"
-    },
-    {
-      "rank": 19,
+      "rank": 27,
       "title": "Echolands Winery Movie Night",
       "category": "Concerts / Festivals",
       "timing": "Saturday Nov 28, 7–9 PM",
@@ -275,7 +387,7 @@
       "url": "https://www.washingtonwine.org/events/category/unique-experiences/"
     },
     {
-      "rank": 20,
+      "rank": 28,
       "title": "NWAC Mountain Weather & Avalanche Education Planning",
       "category": "Ski / Snow",
       "timing": "Friday–Sunday; remote planning, no on-snow trip endorsed",
@@ -289,18 +401,32 @@
       "url": "https://nwac.us/weather/forecast"
     },
     {
-      "rank": 21,
-      "title": "Mount Bluewood Preseason Gear and Ski Planning",
-      "category": "Ski / Snow",
-      "timing": "Fri–Sun; resort skiing not open this weekend",
-      "location": "Dayton/Bluewood, WA",
-      "driveTime": "~1.5–2 hr if travelling, not recommended",
-      "cost": "No lift ticket; gear planning only",
-      "weather": "Bluewood official page targets December 10 opening",
+      "rank": 29,
+      "title": "An Ireland with Michael Christmas Special — Gesa Power House Theatre",
+      "category": "Concerts / Festivals",
+      "timing": "Sunday Nov 29, 2 PM",
+      "location": "Gesa Power House Theatre, Walla Walla, WA",
+      "driveTime": "~1 hr 10 min",
+      "cost": "Ticketed; verify current availability",
+      "weather": "Indoor",
       "exceptional": false,
-      "description": "Local preseason skiing planning only; explicitly not a recommendation to drive for lift-served skiing Nov 27–29",
-      "why": "Local preseason skiing planning only; explicitly not a recommendation to drive for lift-served skiing Nov 27–29",
-      "url": "https://bluewood.com/"
+      "description": "Professional touring music and dance performance at a respected theater",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://phtww.ludus.com/calendar"
+    },
+    {
+      "rank": 30,
+      "title": "Tri-City Americans vs. Penticton Vees — Toyota Center",
+      "category": "Concerts / Festivals",
+      "timing": "Friday Nov 27, 7:05 PM",
+      "location": "Toyota Center, Kennewick, WA",
+      "driveTime": "Local",
+      "cost": "Ticketed; check available seats",
+      "weather": "Indoor",
+      "exceptional": false,
+      "description": "Major local arena event at Toyota Center; hockey, not live music",
+      "why": "Within the priority local radius: a specific scheduled music or community event; see source for ticket and entry details.",
+      "url": "https://www.ticketmaster.com/toyota-center-kennewick-tickets-kennewick/venue/122920"
     }
   ]
 }
